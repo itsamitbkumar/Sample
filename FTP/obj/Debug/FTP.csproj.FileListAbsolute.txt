@@ -1,0 +1,6 @@
+c:\users\akumar59\documents\visual studio 2012\Projects\FTP\FTP\bin\Debug\FTP.exe.config
+c:\users\akumar59\documents\visual studio 2012\Projects\FTP\FTP\bin\Debug\FTP.exe
+c:\users\akumar59\documents\visual studio 2012\Projects\FTP\FTP\bin\Debug\FTP.pdb
+c:\users\akumar59\documents\visual studio 2012\Projects\FTP\FTP\obj\Debug\FTP.csprojResolveAssemblyReference.cache
+c:\users\akumar59\documents\visual studio 2012\Projects\FTP\FTP\obj\Debug\FTP.exe
+c:\users\akumar59\documents\visual studio 2012\Projects\FTP\FTP\obj\Debug\FTP.pdb
