@@ -10,8 +10,8 @@ namespace makedirectory
     {
         static void Main(string[] args)
         {
-            //FtpWebRequest request = (FtpWebRequest)FtpWebRequest.Create("ftp://risk.com/" + "//RMStaffer/akumar69/NewDirectory");
-            FtpWebRequest request = (FtpWebRequest)FtpWebRequest.Create("ftp://risk.com/" + "//RMStaffer/akumar69/"+args[0]);
+            //FtpWebRequest request = (FtpWebRequest)FtpWebRequest.Create("ftp://risk.com/" + "//Staffer/pkumar69/NewDirectory");
+            FtpWebRequest request = (FtpWebRequest)FtpWebRequest.Create("ftp://risk.com/" + "//Staffer/pkumar69/"+args[0]);
             request.Credentials = new NetworkCredential("user", "pasword");
             request.UsePassive = true;
             request.UseBinary = true;
